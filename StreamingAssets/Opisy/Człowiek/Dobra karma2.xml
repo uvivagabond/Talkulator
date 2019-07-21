@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<Cecha xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nazwaCechy>Dobra karma2</nazwaCechy>
+  <opisCechy>Dobra karma: Człowiek otrzymują premię +10 do współczynnika szczęścia, a wraz z tym dodatkowe punkty przy rozpoczęciu pierwszej przygody. Poza tym rozpoczynając przygodę człowiek otrzymuje dwa punkty szczęścia, miast jednego, a w końcu koszt zakupu punktów szczęścia maleje dla ludzi o połowę (do 50 punktów doświadczenia za punkt szczęścia, miast 100 punktów doświadczenia za punkt szczęścia). Człowiek jest słabym gatunkiem na tle innych ras. Może to zasługa bogów lub jakiejś selekcji naturalnej, ale bohaterowie ludzi wydają się mieć znacznie więcej szczęścia od innych ras.</opisCechy>
+</Cecha>

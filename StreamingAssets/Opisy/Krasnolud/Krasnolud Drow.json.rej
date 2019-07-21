@@ -1,0 +1,6 @@
+diff a/Assets/StreamingAssets/Opisy/Krasnolud Drow.json b/Assets/StreamingAssets/Opisy/Krasnolud Drow.json	(rejected hunks)
+@@ -0 +0 @@
+-{"nazwaCechy":"Krasnolud Drow","opisCechy":"Drow: Podziemne krasnoludy są drowami, istotami świata ciemności. Gdy w ciągu jednej rundy drow z ciemności nagle znajdzie się na obszarze silnego światła, zostanie oślepiony na minutę. Ciągle przebywanie na obszarze silnego światła powoduje, że jest on olśniony, a ponadto powoduje to jego męczenie się. Drow po ilości minut równej swej wytrwałości otrzymuje punkt zmęczenia za każdą minutę przebywania na obszarze jasnego światła."}
+\ No newline at end of file
++﻿{"nazwaCechy":"Krasnolud Drow","opisCechy":"Podziemne krasnoludy są drowami, istotami świata ciemności. Gdy w ciągu jednej rundy drow z ciemności nagle znajdzie się na obszarze silnego światła, zostanie oślepiony na minutę. Ciągle przebywanie na obszarze silnego światła powoduje, że jest on olśniony, a ponadto powoduje to jego męczenie się. Drow po ilości minut równej swej wytrwałości otrzymuje punkt zmęczenia za każdą minutę przebywania na obszarze jasnego światła."}
+\ No newline at end of file
